@@ -1,0 +1,105 @@
+configuring
+============
+$ git config --global user.name "durkkesh"
+$ git config --global user.email "d.kandasamy@accenture.com"
+$ git config --list
+clear
+git clone url  -
+
+git add filename                    ----1 file          |  
+git add .                           --multiple file     |==========={staging,local,remote}
+git add -A                          -mult repositories  |                                                                 
+
+git status                          -save success change
+
+git commmit -m " reason"         ----save local
+
+
+
+
+
+pwd
+cd c
+mkdir folder name
+cd dir demogit
+cd demogit
+git clone url
+ls
+touch welcome.txt
+ls
+git add.
+git status (-s)
+gitlog
+git commit -m "reason"
+
+git push
+
+
+
+
+
+====
+git remote -v
+git push origin branchname
+git push -u originmaster
+git remote rename origin(default orgi) destination(new)
+
+
+cd ..
+mkdir
+cd example
+git init
+touch test
+add
+commit
+git remote -v
+git remote add origin link
+git remote -v
+git push
+git push origin master
+
+esc : wq enter
+==
+git pull(updates remote local)
+git pull origin master
+cat test
+
+
+====================================
+Advanced git commands
+=====================
+
+git clean -f
+           -fd(untrackd or before add . stage)
+
+git reset --hard ---after add . stage(staging area)
+
+git checkout filename (roll off)
+git stash
+         git stash  list
+git stash apply
+
+git commit --amend
+git push -f
+git cherry -v
+
+
+git checkout
+git merge
+git 
+git checkout -b develop master
+git branch
+create nw branch in github
+
+git pull
+git branch -a
+git checkout branch name
+git merge branch name(from master branch)
+
+
+
+
+
+
+
+
